@@ -2,7 +2,7 @@ from random import choice
 import string
 from tabulate import tabulate
 from operator import itemgetter
-# from enum import Enum
+from enum import Enum
 
 # CONSTANTS: just use the name itself, e.g. CISCO
 CISCO = "Cisco System"
